@@ -1,0 +1,31 @@
+Visión General:
+El juego comienza con el jugador despertando en su cama y descubriendo que su pacífico pueblo ha sido invadido por ovnis. Con la ciudad desierta y sin señales de vida, el jugador se enfrenta al desafío de crear un portal para escapar, utilizando restos de materiales esparcidos por la escena. A medida que explora, el jugador descubre la ayuda de un robot que, una vez reconfigurado, le permite acceder a zonas inalcanzables y distraer a los invasores.
+
+Público Objetivo:
+"UFO-The Arrival" está diseñado para jugadores que disfrutan de desafíos estratégicos y de aventuras, con una inclinación hacia la resolución de acertijos y la exploración.
+
+Mecánica Principal:
+La mecánica principal implica la exploración del entorno para recoger materiales y la colaboración con un robot reconfigurado para superar obstáculos y distraer enemigos. El jugador debe evitar activar trampas, ya que esto alertará a los ovnis, aumentando la dificultad y el riesgo de ser atrapado.
+
+Historia:
+El jugador se despierta solo en un pueblo invadido por ovnis y debe buscar una salida a través de la creación de un portal de escape. La trama se desarrolla a medida que el jugador descubre pistas sobre la invasión y la desaparición de los habitantes.
+
+Personajes:
+El protagonista es un habitante común que se encuentra solo en el pueblo invadido. El jugador también cuenta con la ayuda de un robot, una creación tecnológica abandonada que se convierte en un aliado crucial.
+
+Arte y Estilo Visual:
+El juego presenta un estilo visual cautivador que mezcla la tranquilidad del entorno suburbano con la tensión de la invasión extraterrestre. El diseño de los ovnis y las trampas añade un toque de sci-fi al escenario.
+
+Sonido/Música:
+La banda sonora incluye elementos de suspense y sci-fi para aumentar la inmersión del jugador. Los efectos de sonido realzan la atmósfera, desde el zumbido de los ovnis hasta los sonidos mecánicos del robot.
+
+Plataformas Destino:
+"UFO-The Arrival" está diseñado para plataformas de juegos de escritorio, consolas y dispositivos móviles, proporcionando una experiencia accesible para una amplia audiencia.
+
+Objetivos de Desarrollo:
+
+Implementar mecánicas de exploración y recolección de materiales.
+Desarrollar la inteligencia artificial del robot para una colaboración efectiva.
+Crear diseños visuales atractivos para el entorno, personajes y enemigos.
+Diseñar trampas desafiantes y ovnis hostiles para mantener la tensión.
+Asegurar una narrativa envolvente que motive al jugador a avanzar en la historia.
