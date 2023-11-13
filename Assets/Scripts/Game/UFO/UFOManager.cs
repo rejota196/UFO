@@ -26,7 +26,6 @@ public class UFOManager : MonoBehaviour
         while(is_playing){
             
             yield return new WaitForSeconds(delay);
-            Debug.Log("The name of the UFO chosen to change its status is:"+ufos[ufo_number].gameObject.name);
             UFOMovement ufo_movement = ufos[ufo_number].GetComponent<UFOMovement>();
             switch(ufo_movement.state){
                 case UFOMovement.State.Idle:
@@ -39,7 +38,6 @@ public class UFOManager : MonoBehaviour
                 case UFOMovement.State.Leaving:
                     ufo_movement.ResetValues();
                     ChangeLeavingUFO(ufo_movement);
-                    Debug.Log("The name of the UFO that left the scene is:"+ufos[ufo_number].gameObject.name);
                     break;
                 case UFOMovement.State.Entering:
                     ufo_movement.ResetValues();
